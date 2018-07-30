@@ -1,3 +1,2 @@
 Test Git Quick Start demo
 and I add red here
-in master I add purple
